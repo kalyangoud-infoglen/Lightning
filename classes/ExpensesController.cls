@@ -9,4 +9,6 @@ public with sharing class ExpensesController {
                        Reimbursed__c, CreatedDate 
                 FROM Expense__c]; 
     }
+    
+    PUBLIC VOID
 } 
